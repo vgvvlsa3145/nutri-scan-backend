@@ -1,0 +1,28 @@
+# Flutter
+.idea/
+.vscode/
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Python / Backend
+nutri_scan_backend/venv/
+nutri_scan_backend/__pycache__/
+nutri_scan_backend/*.pyc
+nutri_scan_backend/.env
+nutri_scan_backend/instance/
+*.pt
+.pytest_cache/
+
+# System
+Thumbs.db
+.DS_Store
