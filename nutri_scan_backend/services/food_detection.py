@@ -11,7 +11,7 @@ class FoodDetectionService:
     def __init__(self):
         # Initialize YOLO model
         # Using yolov8x.pt (Extra Large) for maximum accuracy.
-        self.model_name = 'yolov8m.pt'
+        self.model_name = 'yolov8n.pt'
         self.model = None
         
         # COCO classes that are food items
